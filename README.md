@@ -1,0 +1,2 @@
+# AzureIdentityB2CTest
+Test
